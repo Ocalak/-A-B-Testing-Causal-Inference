@@ -12,11 +12,6 @@ This project simulates an A/B test to evaluate the impact of a new feature on cu
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## 📂 Folders
-- `data/`: Simulated datasets.
-- `notebooks/`: Interactive analysis notebooks.
-- `src/`: Python scripts for data generation and analysis.
-- `outputs/`: Generated plots and results.
 
 ## 📦 Setup
 ```bash
