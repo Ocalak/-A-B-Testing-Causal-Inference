@@ -22,3 +22,21 @@ This project simulates an A/B test to evaluate the impact of a new feature on cu
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+# 🔗
+
+```lib
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+```
+
+
+
+
